@@ -1,0 +1,2 @@
+CALLBACK_URL_AUTH_SUPABASE="https://aiphtxiboqbnvrwfilnx.supabase.co/auth/v1/callback"
+CALLBACK_URL_LOCALHOST="http://localhost:3001/auth/callback"

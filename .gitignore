@@ -1,0 +1,64 @@
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+.cache/
+tmp/
+temp/
+
+# vibe coding
+claude.md 
+gemini.md
+claude_milestones
+
+
+# Local settings
+.vite/
+.local.settings.json
+.settings.json
+.history/
+.webstorm/
+.idea/
+
+
+# Database
+supabase/migrations_copy
